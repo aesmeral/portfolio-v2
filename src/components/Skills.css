@@ -1,0 +1,10 @@
+.skills {
+  margin: 15px;
+  min-width: 100px;
+  max-height: 100px;
+  /* border: white solid; */
+}
+
+.icon {
+  font-size: 40px;
+}

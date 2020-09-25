@@ -20,25 +20,38 @@
 .about-row {
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
   margin-top: 150px;
   /* border: white solid; */
 }
 .about-img-wrapper {
   max-width: 565px;
+  /* border: white solid; */
 }
 
 .about-text-wrapper {
   max-width: 900px;
   padding-top: 0;
   padding-bottom: 60px;
+  /* border: white solid; */
 }
 
+.about-skills-wrapper {
+  min-height: 300px;
+  max-width: 700px;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  /* border: white solid; */
+}
 .description-wrapper {
   font-size: 20px;
 }
 
 .about-col {
   /* border: white solid; */
+  margin: 15px;
 }
 .personal-picture {
   max-width: 70%;
@@ -46,5 +59,5 @@
   margin-right: 0;
   margin-left: 10px;
   padding-right: 0;
-  border-radius: 190px;
+  border-radius: 2020px;
 }

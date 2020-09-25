@@ -16,10 +16,9 @@ export const HomeObjTwo = {
   description_one:
     "Hello! I'm Anthony, A recent Computer Science graduate from University of California, Irvine. ",
   description_two:
-    "I enjoy creating creating things that live on the internet, whether that be websites, applications, and everything in between. Ultimately, my goal is to always keep learning new technologies,build great things, and to offer good user experience.",
+    "I enjoy creating creating things that live on the internet, whether that be websites, applications, and everything in between. Ultimately, my goal is to always keep learning new technologies, build great things, and to create good user experiences.",
   description_three:
     "Currently, I am searching for a software engineering position based in California ( Preferably in the Los Angeles metropolitan area ).",
-  buttonLabel: "Get In Touch",
-  imgStart: "",
   img: "images/me.jpg",
+  alt: "picture of me",
 };
