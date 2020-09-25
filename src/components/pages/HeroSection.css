@@ -3,6 +3,10 @@
   padding: 160px 0;
   background-image: url("../../background-image.jpg");
   background-size: cover;
+  position: absolute;
+  top: 80px;
+  left: 0;
+  right: 0;
 }
 
 .home__hero-row {

@@ -1,0 +1,50 @@
+.about-topLine {
+  color: #f00946;
+  font-size: 30px;
+  line-height: 16px;
+  font-weight: 700;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+}
+
+.about-container {
+  color: #fff;
+  background-size: cover;
+  /* background-image: url("../../background-image.jpg"); */
+  background-color: #0d1d2c;
+  min-height: 91.5%;
+  min-width: 100%;
+  position: absolute;
+}
+
+.about-row {
+  display: flex;
+  justify-content: center;
+  margin-top: 150px;
+  /* border: white solid; */
+}
+.about-img-wrapper {
+  max-width: 565px;
+}
+
+.about-text-wrapper {
+  max-width: 900px;
+  padding-top: 0;
+  padding-bottom: 60px;
+}
+
+.description-wrapper {
+  font-size: 20px;
+}
+
+.about-col {
+  /* border: white solid; */
+}
+.personal-picture {
+  max-width: 70%;
+  margin-top: 0;
+  margin-right: 0;
+  margin-left: 10px;
+  padding-right: 0;
+  border-radius: 190px;
+}

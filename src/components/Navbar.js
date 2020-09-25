@@ -6,6 +6,7 @@ import "./Navbar.css";
 import { IconContext } from "react-icons/lib";
 import Pdf from "../components/files/Resume.pdf";
 import { Button } from "../components/Button";
+
 function Navbar() {
   const [click, setClick] = useState(false);
   const [button, setButton] = useState(true);
@@ -53,15 +54,6 @@ function Navbar() {
                   onClick={closeMobileMenu}
                 >
                   Projects
-                </Link>
-              </li>
-              <li className="nav-item">
-                <Link
-                  to="/skills"
-                  className="nav-links"
-                  onClick={closeMobileMenu}
-                >
-                  Skills
                 </Link>
               </li>
               <li className="nav-item">

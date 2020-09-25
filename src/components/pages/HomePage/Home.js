@@ -1,6 +1,7 @@
 import React from "react";
 import HeroSection from "../HeroSection";
-import { HomeObjOne } from "./Data";
+import About from "./AboutPage";
+import { HomeObjOne, HomeObjTwo } from "./Data";
 
 function Home() {
   return (
