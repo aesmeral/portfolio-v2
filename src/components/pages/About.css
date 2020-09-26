@@ -1,5 +1,6 @@
 .about-topLine {
   color: #f00946;
+  margin-bottom: 20px;
   font-size: 30px;
   line-height: 16px;
   font-weight: 700;
@@ -21,11 +22,12 @@
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  margin-top: 150px;
+  margin-top: 110px;
   /* border: white solid; */
 }
 .about-img-wrapper {
   max-width: 565px;
+  text-align: center;
   /* border: white solid; */
 }
 
