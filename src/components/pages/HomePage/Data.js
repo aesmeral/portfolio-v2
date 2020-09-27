@@ -22,3 +22,7 @@ export const HomeObjTwo = {
   img: "images/me.jpg",
   alt: "picture of me",
 };
+
+export const ProjectImages = {
+  fabflix: "images/fabflix/",
+};
